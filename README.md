@@ -1,4 +1,3 @@
-# TikoTeko
-Projeto construido com React
+#TikoTeko
 
-esse epp é uma cópia do tik tok, no entanto é uma versão apenas para aprendizado.
+É um projeto construido com React com a finalidade de ser uma cópia do tiktok, no entanto é uma versão basica apenas para aprendizado do framework React.
