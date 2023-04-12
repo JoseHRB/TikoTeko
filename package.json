@@ -45,7 +45,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JoseHRB/TikoTeko.git"
+    "url": "git+git@github.com:JoseHRB/TikoTeko.git"
   },
   "keywords": [
     "tikoteko",
