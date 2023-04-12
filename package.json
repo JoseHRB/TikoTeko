@@ -39,5 +39,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "É um projeto construido com React com a finalidade de ser uma cópia do tiktok, no entanto é uma versão basica apenas para aprendizado do framework React.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseHRB/TikoTeko.git"
+  },
+  "keywords": [
+    "tikoteko",
+    "app",
+    "web"
+  ],
+  "author": "joseHRB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseHRB/TikoTeko.git~/issues"
+  },
+  "homepage": "https://github.com/JoseHRB/TikoTeko.git~#readme"
 }
